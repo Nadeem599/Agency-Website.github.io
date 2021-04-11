@@ -1,0 +1,11 @@
+@media screen and (max-width: 320px) {
+    .mobile {
+        font-size: 35px;
+    }
+    .title::before{
+        transform: translateY(57px);
+    }
+}
+
+
+
